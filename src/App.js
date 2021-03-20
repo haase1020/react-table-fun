@@ -1,10 +1,10 @@
 import "./App.css";
-import { PaginationTable } from "./components/PaginationTable";
+import { ColumnHiding } from "./components/ColumnHiding";
 
 function App() {
   return (
     <div className="App">
-      <PaginationTable />
+      <ColumnHiding />
     </div>
   );
 }
